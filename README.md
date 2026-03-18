@@ -39,12 +39,15 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![WhatsApp Image 2026-03-14 at 11 07 26 AM](https://github.com/user-attachments/assets/affe440c-60e9-4d7e-8a3b-6cc6fd5615c4)
 
 **Output:**
 
 **RTL**
+![WhatsApp Image 2026-03-14 at 11 03 58 AM](https://github.com/user-attachments/assets/116cc150-d94e-4489-8dee-2dfff8c5f4d1)
 
 **Timing Diagram**
+![WhatsApp Image 2026-03-14 at 11 03 58 AM](https://github.com/user-attachments/assets/f9143e06-84bc-4b8a-8498-e52c022e0ee2)
 
 **Result:**
 
