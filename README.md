@@ -32,10 +32,20 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+module ex2 (
+   input A, B, C, D,
+    output F
+    
+);
+assign F= (~A & ~B & ~C & ~D) |
+         ( A & ~C & ~D)      |
+   		 (~B &  C & ~D)      |
+   		 (~A &  B &  C &  D) |
+   		 ( B & ~C &  D);
+   		 
+endmodule
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+Developed by:  Sharmila RegisterNumber:212225230261
 
 
 **RTL realization**
